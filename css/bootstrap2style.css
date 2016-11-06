@@ -12,7 +12,7 @@
 }
 #head {
 	height:100px;
-	font-weight:bold;
+	font-weight:100px;
 	
 }
 
@@ -68,3 +68,9 @@ body {
 a{
 		color:white !important;
 	}
+.card {
+	margin:0px;
+}
+.card-text {
+	text-align:left;
+}
